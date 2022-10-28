@@ -1,0 +1,17 @@
+<br />
+<b>Notice</b>:  Undefined index: phone in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>6</b><br />
+<br />
+<b>Notice</b>:  Undefined index: name in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>16</b><br />
+<br />
+<b>Notice</b>:  Undefined index: profession in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>31</b><br />
+<br />
+<b>Notice</b>:  Undefined index: address in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>43</b><br />
+<br />
+<b>Notice</b>:  Undefined index: experience in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>56</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: conn in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>77</b><br />
+<br />
+<b>Warning</b>:  mysqli_close() expects parameter 1 to be mysqli, null given in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>77</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: json in <b>/home/aeducational/public_html/sarju/api/register.php</b> on line <b>81</b><br />
+null 
